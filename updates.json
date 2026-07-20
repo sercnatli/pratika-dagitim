@@ -1,0 +1,9 @@
+{
+  "addons": {
+    "erecete@hekvia.com": {
+      "updates": [
+        { "version": "0.21", "update_link": "https://raw.githubusercontent.com/sercnatli/pratika-dagitim/main/pratika-erecete-imzali.xpi" }
+      ]
+    }
+  }
+}
